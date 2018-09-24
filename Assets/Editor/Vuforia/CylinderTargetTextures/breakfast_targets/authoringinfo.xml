@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="Drink_3" version="3.0" targetId="1eba274e63414fc38bb62127b3704777" sideLength="4.000000" topDiameter="2.500000" bottomDiameter="2.500000" sideImage="Drink_3.Body_scaled.jpg"/>
+        <CylinderTarget name="Drink_2" version="3.0" targetId="139b79f02a3b404ab089c91ddc80fdec" sideLength="4.000000" topDiameter="2.500000" bottomDiameter="2.500000" sideImage="Drink_2.Body_scaled.jpg"/>
+        <CylinderTarget name="Drink_1" version="3.0" targetId="e792257587f04e73a8ec60eff73da64b" sideLength="4.000000" topDiameter="2.500000" bottomDiameter="2.500000" sideImage="Drink_1.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

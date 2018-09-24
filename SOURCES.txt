@@ -1,0 +1,54 @@
+Animation -
+Happy Pancake Day Animation Content for Placemat1 - Hays Travel - https://giphy.com/explore/february-pancake
+Talking Orange Animation Content - https://giphy.com/gifs/blah-a14DgqlSI3lTO
+Orange Liquid Pouring Animation Content - https://giphy.com/gifs/splat-nicksplat-aaahh-real-monster-l0DAGWTbsbk7LAdqg
+Animated Unicorn Content for Drink_3 - Mauro Gatti - https://giphy.com/gifs/fun-party-smile-3o7btZjaYxqkGyOYA8
+OJ Reaction - https://giphy.com/gifs/reactiongifs-nJ8nPKNeobMQ0
+Bro whats that - http://thegiflibrary.tumblr.com/post/11546480351
+Volcano - http://bestanimations.com/Nature/volcano-explosion-footage-animated-gif.gif
+Magazine Cover - TIME Magazine - https://giphy.com/gifs/technology-time-magazine-never-offline-26tOY3KjQUL9YhRT2
+
+Images - 
+Placemat 2 Sponsors - Tea Printers And Publishers - http://www.teaprinters.com/images/placemats/rocklandcafe.jpg
+Placemat 2 Menu - Vector Stock - https://cdn4.vectorstock.com/i/1000x1000/81/18/menu-breakfast-restaurant-food-template-placemat-vector-11178118.jpg
+pancake1 - https://www.thespruceeats.com/easy-vegan-pancake-recipe-3376597
+pancake2 - https://www.eggs.ca/recipes/fluffy-pancakes
+pancake3 - https://www.bettycrocker.com/recipes/pancakes/7b1b2ca4-2ce0-4d3c-932b-6855257e6e87
+OJCanFloor - https://www.sportsgossip.com/other/oj-simpson-eats-at-ihop 
+Pineapple Skull - https://jackofthedust.com/products/pineapple-skull
+Drink_4 Target - file:///C:/Users/Admin/Desktop/Unity%20Projects/Breakfast/Assets/Resources/Images/soda_can.pdf
+
+Door Material - https://www.google.com/search?q=unity+door+texture&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjHurS9nqLZAhWprVkKHetEBroQsAQIJg&biw=1218&bih=885#imgrc=303bGPNIARz3AM:
+Magazine Page magP1 - http://www.magazinedesigning.com/wp-content/uploads/2013/10/magazine-structure-link4.jpg
+Magazine Page magP2 - http://2.bp.blogspot.com/-dxftsypTWME/T47d0fMEm8I/AAAAAAAAAR4/vMmLXDLedkI/s1600/Wakhan+Article+Bergen+Magazine+page+1.jpg
+Magazine Cover magCover1 - https://ohmy.disney.com/wp-content/uploads/2013/08/Disney-Princess-Magazines-Rapunzel.png
+Magazine Page magP3 - http://three-blocks.com/magazine-page/magazine-page-elegant-active-lifestyle-article-magazine-page/
+Magazine Page magP4 - http://www.rosannaarquette.com/interview-in-westlake-magazine/rosanna-arquette-westlake-magazine-page-54-web-2/
+Magazine Page magP5 - https://attemptedbloggery.blogspot.com/2014/03/seth-funny-dream.html
+Magazine Page magP6 - http://drcoreygonzales.com/mag01.html
+Magazine Page magP7 - https://www.designbold.com/templates/aBml0yxrmv/creative-photography-interior-design-layout-magazine-page-03.html
+
+Scripts -
+Code in animation script -   https://answers.unity.com/questions/429697/how-will-i-get-animated-gif-images-in-scene.html
+ImageTargetPlayAudio - https://developer.vuforia.com/forum/faq/unity-how-can-i-play-audio-when-targets-get-detected
+CreateCone.cs - http://wiki.unity3d.com/index.php?title=CreateCone
+
+Audio - 
+ohpickme - http://www.moviesoundclips.net/sound.php?id=34
+grillsizzle - b0bd0bbs - https://freesound.org/people/b0bd0bbs/sounds/35872/ 
+Birds Chirping (Cereal 1) - Demo - https://www.youtube.com/watch?v=6wqcni74cM4
+Volcanic Eruption - Education World - https://www.youtube.com/watch?v=UQXca5mWXpo
+Restaurant Sound Effect - TheMewPunkStation - https://www.youtube.com/watch?v=6GK_eD6TXcM 
+Jungle Sounds for Cereal 2 - jungle.mp3 - https://www.freesoundeffects.com/free-sounds/jungle-10009/
+Cows Mooing - tdes - https://freesound.org/people/tdes/sounds/126358/
+
+Models - 
+Palm Tree - Kim - https://free3d.com/3d-model/date-palm-2286.html
+Banana - junglecat97 - https://free3d.com/3d-model/banana-23586.html
+Chimp - 3dregenerator - https://free3d.com/3d-model/puo-42917.html
+Cow - snippysnappets - https://free3d.com/3d-model/low-poly-cow-75171.html
+Bee - umar6419 - https://free3d.com/3d-model/bee-89226.html
+Bumble Bee Transformer - ysup12 - https://free3d.com/3d-model/bumble-bee-46016.html
+
+Programs - 
+Gif Splitter - EZGIF - https://ezgif.com/split/
